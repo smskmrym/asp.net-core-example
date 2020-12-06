@@ -1,0 +1,181 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\meri\\Documents\\project\\asp.net-core-example\\asp.net-core-example\\Proje.Business\\Proje.Business.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\meri\\Documents\\project\\asp.net-core-example\\asp.net-core-example\\Proje.Business\\Proje.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\meri\\Documents\\project\\asp.net-core-example\\asp.net-core-example\\Proje.Business\\Proje.Business.csproj",
+        "projectName": "Proje.Business",
+        "projectPath": "C:\\Users\\meri\\Documents\\project\\asp.net-core-example\\asp.net-core-example\\Proje.Business\\Proje.Business.csproj",
+        "packagesPath": "C:\\Users\\meri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\meri\\Documents\\project\\asp.net-core-example\\asp.net-core-example\\Proje.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\meri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\meri\\Documents\\project\\asp.net-core-example\\asp.net-core-example\\Proje.DataAccess\\Proje.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\meri\\Documents\\project\\asp.net-core-example\\asp.net-core-example\\Proje.DataAccess\\Proje.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\meri\\Documents\\project\\asp.net-core-example\\asp.net-core-example\\Proje.DataAccess\\Proje.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\meri\\Documents\\project\\asp.net-core-example\\asp.net-core-example\\Proje.DataAccess\\Proje.DataAccess.csproj",
+        "projectName": "Proje.DataAccess",
+        "projectPath": "C:\\Users\\meri\\Documents\\project\\asp.net-core-example\\asp.net-core-example\\Proje.DataAccess\\Proje.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\meri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\meri\\Documents\\project\\asp.net-core-example\\asp.net-core-example\\Proje.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\meri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\meri\\Documents\\project\\asp.net-core-example\\asp.net-core-example\\Proje.Entities\\Proje.Entities.csproj": {
+                "projectPath": "C:\\Users\\meri\\Documents\\project\\asp.net-core-example\\asp.net-core-example\\Proje.Entities\\Proje.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\meri\\Documents\\project\\asp.net-core-example\\asp.net-core-example\\Proje.Entities\\Proje.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\meri\\Documents\\project\\asp.net-core-example\\asp.net-core-example\\Proje.Entities\\Proje.Entities.csproj",
+        "projectName": "Proje.Entities",
+        "projectPath": "C:\\Users\\meri\\Documents\\project\\asp.net-core-example\\asp.net-core-example\\Proje.Entities\\Proje.Entities.csproj",
+        "packagesPath": "C:\\Users\\meri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\meri\\Documents\\project\\asp.net-core-example\\asp.net-core-example\\Proje.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\meri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
