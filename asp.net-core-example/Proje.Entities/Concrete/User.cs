@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Proje.Entities.Concrete
 {
-    public class User : ITable
+    public class User : ITablo
     {
         public int Id { get; set; }
         public string Ad { get; set; }

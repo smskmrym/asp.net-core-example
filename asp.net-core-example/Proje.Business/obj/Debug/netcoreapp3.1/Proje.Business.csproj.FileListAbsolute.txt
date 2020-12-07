@@ -1,0 +1,14 @@
+C:\Users\meri\Documents\project\asp.net-core-example\asp.net-core-example\Proje.Business\bin\Debug\netcoreapp3.1\Proje.Business.deps.json
+C:\Users\meri\Documents\project\asp.net-core-example\asp.net-core-example\Proje.Business\bin\Debug\netcoreapp3.1\Proje.Business.dll
+C:\Users\meri\Documents\project\asp.net-core-example\asp.net-core-example\Proje.Business\bin\Debug\netcoreapp3.1\Proje.Business.pdb
+C:\Users\meri\Documents\project\asp.net-core-example\asp.net-core-example\Proje.Business\bin\Debug\netcoreapp3.1\Proje.DataAccess.dll
+C:\Users\meri\Documents\project\asp.net-core-example\asp.net-core-example\Proje.Business\bin\Debug\netcoreapp3.1\Proje.Entities.dll
+C:\Users\meri\Documents\project\asp.net-core-example\asp.net-core-example\Proje.Business\bin\Debug\netcoreapp3.1\Proje.DataAccess.pdb
+C:\Users\meri\Documents\project\asp.net-core-example\asp.net-core-example\Proje.Business\bin\Debug\netcoreapp3.1\Proje.Entities.pdb
+C:\Users\meri\Documents\project\asp.net-core-example\asp.net-core-example\Proje.Business\obj\Debug\netcoreapp3.1\Proje.Business.csprojAssemblyReference.cache
+C:\Users\meri\Documents\project\asp.net-core-example\asp.net-core-example\Proje.Business\obj\Debug\netcoreapp3.1\Proje.Business.AssemblyInfoInputs.cache
+C:\Users\meri\Documents\project\asp.net-core-example\asp.net-core-example\Proje.Business\obj\Debug\netcoreapp3.1\Proje.Business.AssemblyInfo.cs
+C:\Users\meri\Documents\project\asp.net-core-example\asp.net-core-example\Proje.Business\obj\Debug\netcoreapp3.1\Proje.Business.csproj.CoreCompileInputs.cache
+C:\Users\meri\Documents\project\asp.net-core-example\asp.net-core-example\Proje.Business\obj\Debug\netcoreapp3.1\Proje.Business.csproj.CopyComplete
+C:\Users\meri\Documents\project\asp.net-core-example\asp.net-core-example\Proje.Business\obj\Debug\netcoreapp3.1\Proje.Business.dll
+C:\Users\meri\Documents\project\asp.net-core-example\asp.net-core-example\Proje.Business\obj\Debug\netcoreapp3.1\Proje.Business.pdb

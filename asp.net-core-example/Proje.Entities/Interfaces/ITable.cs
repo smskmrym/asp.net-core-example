@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Proje.Entities.Interfaces
 {
-    public interface ITable
+    public interface ITablo
     {
     }
 }
